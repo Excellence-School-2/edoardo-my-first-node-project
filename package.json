@@ -1,0 +1,24 @@
+{
+  "name": "my-first-project",
+  "version": "1.0.0",
+  "description": "Il mio primo progetto con node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Excellence-School-2/edoardo-my-first-node-project.git"
+  },
+  "keywords": [
+    "first",
+    "project"
+  ],
+  "author": "Edoardo Cerchiara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Excellence-School-2/edoardo-my-first-node-project/issues"
+  },
+  "homepage": "https://github.com/Excellence-School-2/edoardo-my-first-node-project#readme"
+}
